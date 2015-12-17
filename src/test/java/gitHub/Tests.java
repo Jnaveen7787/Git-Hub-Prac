@@ -31,6 +31,12 @@ public class Tests extends Utils{
         githubTest();
     }
 
+    @Test
+    public void test1(){
+        System.out.println("This is a project from Git Hub");
+
+    }
+
 
 
 
